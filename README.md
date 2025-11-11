@@ -1,11 +1,9 @@
-## 💻 Tabela de Downloads e Compatibilidade
+## Downloads Úteis
 
-| Item | Repositório / Download | Compatibilidade Windows Recomendada (Mínima/Melhor) |
-| :--- | :--- | :--- |
-| **Rainmeter** (Aplicativo) | [**Download Rainmeter**](https://www.rainmeter.net/) | Windows 7 ou Superior (Melhor no **10/11**) |
-| **Skin Mond** (Rainmeter) | [**Mond Rainmeter Theme (GitHub)**](https://github.com/rmskins/mond) | Windows 7 ou Superior (Requer Rainmeter instalado) |
-| **Skin Mii Power** (Rainmeter) | [**Mii Power (Visual Skins)**](https://visualskins.com/skin/mii-power) | Windows 7 ou Superior (Requer Rainmeter instalado) |
-| **TranslucentTB** (Aplicativo) | [**TranslucentTB (GitHub)**](https://github.com/TranslucentTB/TranslucentTB) | **Windows 10** ou **Windows 11** |
-| **Lively Wallpaper** (Aplicativo) | [**Lively Wallpaper (Microsoft Store)**](https://apps.microsoft.com/detail/9ntm2qc6qws7?hl=en-US&gl=US) | **Windows 10** (versão 17763.0+) ou **Windows 11** |
-
----
+| Item | Versão Recomendada do Windows | Download |
+| :--- | :--------------------------: | :------: |
+| Rainmeter (App) | 7, 8.1, 10, 11 | [![Download Rainmeter](https://img.shields.io/badge/Download-Rainmeter-blue?style=for-the-badge&logo=windows)](URL_DO_DOWNLOAD_RAINMETER) |
+| Skin Mond (Rainmeter) | 7, 8.1, 10, 11 | [![Download Mond](https://img.shields.io/badge/Download-Mond-red?style=for-the-badge&logo=cloud-download)](URL_DO_DOWNLOAD_MOND_SKIN) |
+| Skin Mii Power (Rainmeter) | 7, 8.1, 10, 11 | [![Download Mii Power](https://img.shields.io/badge/Download-Mii_Power-orange?style=for-the-badge&logo=cloud-download)](URL_DO_DOWNLOAD_MII_POWER_SKIN) |
+| TranslucentTB (App) | 10, 11 | [![Download TranslucentTB](https://img.shields.io/badge/Download-TranslucentTB-green?style=for-the-badge&logo=windows)](URL_DO_DOWNLOAD_TRANSLUCENTTB) |
+| Lively Wallpaper (App) | 10, 11 | [![Download Lively Wallpaper](https://img.shields.io/badge/Download-Lively_Wallpaper-lightgray?style=for-the-badge&logo=windows)](URL_DO_DOWNLOAD_LIVELY_WALLPAPER) |
